@@ -27,6 +27,8 @@ Users should be able to:
 
 ![screenshot](https://github.com/UT0P1C/advice-generator/blob/main/Screenshot.png)
 
+## My process
+
 ### Built with
 
 - Semantic HTML5 markup
