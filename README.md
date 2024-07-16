@@ -23,9 +23,7 @@ Users should be able to:
 
 ### Screenshot
 
-![screenshot](https://github.com/UT0P1C/advice-generator/blob/main/Screenshot.png)
-
-## My process
+![screenshot](https://github.com/UT0P1C/advice-generator/main/Screenshot.png)
 
 ### Built with
 
