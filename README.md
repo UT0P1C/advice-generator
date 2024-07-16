@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Screenshot
 
-![screenshot](https://github.com/UT0P1C/advice-generator/main/Screenshot.png)
+![screenshot](https://raw.githubusercontent.com/UT0P1C/advice-generator/main/Screenshot.png)
 
 ### Built with
 
